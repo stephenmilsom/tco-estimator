@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/tco-estimator/',  // must match your repo name exactly
+  base: '/sites/VE-EMEA/apps/tco-estimator/',
 })
